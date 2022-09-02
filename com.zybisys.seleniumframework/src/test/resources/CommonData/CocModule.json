@@ -1,0 +1,8 @@
+[{
+	"authentication": {
+		"validUserNames": ["abdul@gmail.com"],
+		"validPasswords": ["Zybisys@321"],
+		"COC_URL": "https://dev.zybisys.com/login"
+
+	}
+}]
